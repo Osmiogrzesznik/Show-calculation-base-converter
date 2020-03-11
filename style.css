@@ -1,0 +1,11 @@
+#out{
+    font-family:Arial;
+    font-size:1em;
+}
+
+
+table,td,tr,tc{
+	border:1px solid black;
+	width:100%;
+	border-collapse:collapse;
+}
