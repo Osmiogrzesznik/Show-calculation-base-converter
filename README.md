@@ -12,8 +12,7 @@ perfectly behind the scenes.
 
  If, however the **desire is to learn why it is the case** that
 
- (edae)~16 ~is equal to (60846 )~10~
-
+C0FFEE is 12648430
 Or why 5 is represented as 101 in binary?
 
 **Guess what? You are in the right place.**
