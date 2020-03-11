@@ -12,13 +12,7 @@ perfectly behind the scenes.
 
  If, however the **desire is to learn why it is the case** that
 
- edae in hex is equal to  in 60846 in decimal
-deadbeef
-or 
-C0FEE
-
-
-
+C0FFEE is 12648430
 Or why 5 is represented as 101 in binary?
 
 **Guess what? You are in the right place.**
