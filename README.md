@@ -12,7 +12,12 @@ perfectly behind the scenes.
 
  If, however the **desire is to learn why it is the case** that
 
- (edae)~16 ~is equal to (60846 )~10~
+ edae in hex is equal to  in 60846 in decimal
+deadbeef
+or 
+C0FEE
+
+
 
 Or why 5 is represented as 101 in binary?
 
