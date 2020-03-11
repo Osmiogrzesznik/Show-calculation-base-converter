@@ -1,6 +1,5 @@
-> **BASE CONVERTER**
->
-> **Show manual calculation, long division and math included**
+# BASE CONVERTER
+**Shows manual calculation, long division and math included**
 
 Hey, as you know, it may be hard to prepare on exams truly, if what they
 demand from you is not exactly available on the internet toolkit.
